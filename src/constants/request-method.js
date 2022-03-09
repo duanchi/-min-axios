@@ -1,0 +1,11 @@
+const REQUEST_METHOD = {
+  GET: 'GET',
+  POST: 'POST',
+  PUT: 'PUT',
+  DELETE: 'DELETE',
+  HEAD: 'HEAD',
+  PATCH: 'PATCH',
+  OPTIONS: 'OPTIONS'
+}
+
+export default REQUEST_METHOD
